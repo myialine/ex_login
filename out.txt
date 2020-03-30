@@ -1,0 +1,17 @@
+C:\Users\brali\source\repos\ex_login2
+├── config
+├── controllers
+├── migrations
+├── models
+├── node_modules
+├── out.txt
+├── package-lock.json
+├── package.json
+├── README.md
+├── seeders
+├── server.js
+└── views
+
+directory: 7 file: 5
+
+ignored
