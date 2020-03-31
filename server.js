@@ -7,7 +7,7 @@ var AccountRoutes = require('./controllers/account_controller');
 
 var HomeRoutes = require('./controllers/home_controller');
 
-var port = process.env.PORT || 3306;
+var port = process.env.PORT || 3360;
 
 app.set('view engine','ejs');
 app.use(bodyParser.json());
